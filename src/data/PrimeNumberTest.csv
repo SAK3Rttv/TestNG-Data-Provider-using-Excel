@@ -1,0 +1,10 @@
+﻿Test Description,number,Expected Result
+Check if number -1 is prime,-1,FALSE
+Check if number 0 is prime,0,FALSE
+Check if number 2 is prime,2,TRUE
+Check if number 3 is prime,3,TRUE
+Check if number 4 is prime,4,FALSE
+Check if number 7 is prime,7,FALSE
+Check if number 11 is prime,11,TRUE
+Check if number 13 is prime,13,TRUE
+Check if number 15 is prime,15,FALSE
