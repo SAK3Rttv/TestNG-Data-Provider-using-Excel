@@ -9,6 +9,10 @@ public class ReadCSV {
 	final static String CSV_FILE = "src/data/PrimeNumberTest.csv";
 	final static String DELIMETER = ",|\\t";
 	
+	/**
+	 * 
+	 * @return read dummy data from CSV
+	 */
 	public static Iterator<Object[]> CSVDataProvider() {
 		try {
 			@SuppressWarnings("resource")

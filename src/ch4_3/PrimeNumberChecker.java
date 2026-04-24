@@ -1,6 +1,12 @@
 package ch4_3;
 
 public class PrimeNumberChecker {
+	
+	/**
+	 * 
+	 * @param number
+	 * @return if isPrime
+	 */
 	public boolean isPrime(int number) {
 		if (number <= 1) return false;
 		
